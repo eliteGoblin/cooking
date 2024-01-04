@@ -10,6 +10,8 @@
 
 # 生米煮粥
 
+Best guide: [How to Make Basic Asian Rice Porridge (Congee)](https://whattocooktoday.com/how-to-make-rice-porridge.html)
+
 
      很多人不好掌握粥的稀稠，其实是有一定的比例的。如果想喝全粥（其实类似煮比较软烂的米饭），那米和水的比例（体积比）就是1：8，如果想喝稠粥那么就是1：10，稀粥的话就是1：13。一般来说，我喜欢介于稠粥和稀粥之间的状态，因此使用的是1：11这样的比例。 
 
